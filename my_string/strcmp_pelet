@@ -1,0 +1,71 @@
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+1 entered
+
+my_strcmp: Compares two strings character by character.
+ if the strings are equal, the function returns 0
+ if the first non-matching character in str1 is greater than that of str2 returns 1.
+ if the first non-matching character in str1 is lower than that of str2 returns -1.
+
+Please enter the first string to be compared
+university entered
+Please enter the second string to be compared
+universe entered
+
+The result is 1
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+0 entered
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+1 entered
+
+my_strcmp: Compares two strings character by character.
+ if the strings are equal, the function returns 0
+ if the first non-matching character in str1 is greater than that of str2 returns 1.
+ if the first non-matching character in str1 is lower than that of str2 returns -1.
+
+Please enter the first string to be compared
+universe entered
+Please enter the second string to be compared
+university entered
+
+The result is -1
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+0 entered
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+1 entered
+
+my_strcmp: Compares two strings character by character.
+ if the strings are equal, the function returns 0
+ if the first non-matching character in str1 is greater than that of str2 returns 1.
+ if the first non-matching character in str1 is lower than that of str2 returns -1.
+
+Please enter the first string to be compared
+university entered
+Please enter the second string to be compared
+university entered
+
+The result is 0
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+1 entered
+
+Thank you for using the service, see next time :)

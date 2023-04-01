@@ -1,0 +1,77 @@
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+2 entered
+
+my_strncmp: compares at most the first n bytes of str1 and str2.
+if Return value < 0 then it indicates str1 is less than str2.
+if Return value > 0 then it indicates str2 is less than str1.
+if Return value = 0 then it indicates str1 is equal to str2
+
+Please enter the first string to be compared
+university entered
+Please enter the second string to be compared
+universe entered
+Please enter how many characters to compare form the start
+5 entered
+
+The result is 0
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+0 entered
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+2 entered
+
+my_strncmp: compares at most the first n bytes of str1 and str2.
+if Return value < 0 then it indicates str1 is less than str2.
+if Return value > 0 then it indicates str2 is less than str1.
+if Return value = 0 then it indicates str1 is equal to str2
+
+Please enter the first string to be compared
+universe entered
+Please enter the second string to be compared
+university entered
+Please enter how many characters to compare form the start
+8 entered
+
+The result is -1
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+0 entered
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+2 entered
+
+my_strncmp: compares at most the first n bytes of str1 and str2.
+if Return value < 0 then it indicates str1 is less than str2.
+if Return value > 0 then it indicates str2 is less than str1.
+if Return value = 0 then it indicates str1 is equal to str2
+
+Please enter the first string to be compared
+university entered
+Please enter the second string to be compared
+university entered
+Please enter how many characters to compare form the start
+15 entered
+
+The result is 0
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+1 entered
+
+Thank you for using the service, see next time :)

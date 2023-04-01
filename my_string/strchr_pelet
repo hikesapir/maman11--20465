@@ -1,0 +1,44 @@
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+3 entered
+
+my_strchr: Searches for the first occurrence ofa specific character in the string.
+returns the index of the first occurrence of the character in the string, or -1 if the character is not found.
+
+Please enter a string
+university entered
+Please enter the character you want to find
+r entered
+
+The result is 5
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+0 entered
+
+Please enter the function you want to test:
+Enter 1  for my_strcmp - compares two strings
+Enter 2  for my_strncmp - compares two strings to the maximum of specific index
+Enter 3  for my_strchr - searches for the first occurrence of a specific character
+3 entered
+
+my_strchr: Searches for the first occurrence ofa specific character in the string.
+returns the index of the first occurrence of the character in the string, or -1 if the character is not found.
+
+Please enter a string
+university entered
+Please enter the character you want to find
+p entered
+
+The result is -1
+
+Do you want to exit?
+Enter 0 to continue
+Enter 1 to exit
+1 entered
+
+Thank you for using the service, see next time :)
